@@ -1,5 +1,7 @@
 #pragma once
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 2
+
 #define FORCE_NKRO
 
 #define MOUSEKEY_DELAY             0
